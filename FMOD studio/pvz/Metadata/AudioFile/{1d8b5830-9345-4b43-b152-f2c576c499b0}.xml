@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{1d8b5830-9345-4b43-b152-f2c576c499b0}">
+		<property name="assetPath">
+			<value>Grasswalk - Plants vs Zombies.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>142.69999999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{adde62a2-9bde-4379-b60c-1f932c810f6e}</destination>
+		</relationship>
+	</object>
+</objects>
