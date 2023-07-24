@@ -20,3 +20,5 @@ for (var i = 0; i < array_length(banks); i++) {
 
 z = 0;
 show_debug_message($"Listener Status: {fmod_listener_setPosition(0, x, y, z)}; Position: {x}, {y}, {z}");
+
+//this is fmod
