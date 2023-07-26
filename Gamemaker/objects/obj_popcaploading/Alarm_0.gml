@@ -1,3 +1,5 @@
+//1, yes ONE single line of code from the step event is here. and it still works
+
 loaded += 0.02;
 image_alpha = loaded;
 if (loaded >= 1) {
