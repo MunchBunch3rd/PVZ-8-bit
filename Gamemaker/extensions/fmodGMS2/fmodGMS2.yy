@@ -18,7 +18,7 @@
   "exportToGame": true,
   "extensionVersion": "3.0.0",
   "files": [
-    {"resourceType":"GMExtensionFile","resourceVersion":"1.0","name":"","constants":[
+    {"resourceType":"GMExtensionFile","resourceVersion":"1.0","name":"FMODWrapperGMS.dll","constants":[
         {"resourceType":"GMExtensionConstant","resourceVersion":"1.0","name":"FMOD_STUDIO_PLAYBACK_PLAYING","hidden":false,"value":"0",},
         {"resourceType":"GMExtensionConstant","resourceVersion":"1.0","name":"FMOD_STUDIO_PLAYBACK_SUSTAINING","hidden":false,"value":"1",},
         {"resourceType":"GMExtensionConstant","resourceVersion":"1.0","name":"FMOD_STUDIO_PLAYBACK_STOPPED","hidden":false,"value":"2",},
